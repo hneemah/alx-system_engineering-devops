@@ -1,1 +1,1 @@
-Write a script that sets all permissions to the owner, to the file hello
+Write a script that sets the mode of the file hello the same as olleh’s mode
