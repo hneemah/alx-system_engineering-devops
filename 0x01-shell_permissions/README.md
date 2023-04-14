@@ -1,1 +1,1 @@
-Write a script that sets all permission to other users, to the file hello
+Write a script that sets all permissions to the owner, to the file hello
